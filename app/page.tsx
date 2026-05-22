@@ -9,7 +9,7 @@ export default function Home() {
       title: "Urban Threads Shopify Store",
       desc: "A fully functional Shopify e-commerce store with product variants, collections, pricing and checkout setup.",
       tech: "Shopify, Liquid, HTML, CSS",
-      github:
+      github live :
         "https://github.com/NagullaSaiLahari3281/Urban-threads-shopify-store",
     },
     {
@@ -19,10 +19,25 @@ export default function Home() {
       live: "https://nagullasailahari3281.github.io/Gas-Leakage/",
     },
     {
-      title: "Health Monitoring System App",
-      desc: "A learning project focused on monitoring basic health parameters using Kotlin, Arduino and sensors.",
-      tech: "Kotlin, Android Studio, Arduino",
-    },
+  title: "Hotel Booking App",
+  desc: "A responsive hotel booking web application with modern UI and booking features.",
+  tech: "HTML, CSS, JavaScript",
+  live: "https://nagullasailahari3281.github.io/Hotel-Booking-App/",
+},
+ {
+  title: "Food Delivery App",
+  desc: "A food delivery website with menu browsing and responsive user interface.",
+  tech: "HTML, CSS, JavaScript",
+  live: "https://nagullasailahari3281.github.io/food-delivery-app/",
+},
+{
+  title: "Netflix Homepage Clone",
+  desc: "A Netflix landing page clone with responsive design and modern UI.",
+  tech: "HTML, CSS, JavaScript",
+  live: "https://nagullasailahari3281.github.io/netflix-homepage-clone/",
+},
+
+
   ];
 
   const skills = [
@@ -35,7 +50,7 @@ export default function Home() {
     "MySQL",
     "Shopify",
     "GitHub",
-    "VS Code",
+    "Python",
   ];
 
   return (
@@ -115,13 +130,46 @@ export default function Home() {
 
           <div className="bg-white/5 rounded-3xl p-8 border border-white/10">
             <p className="text-gray-300 leading-8 text-center">
-              I am a Computer Science and Engineering student at QIS College of
-              Engineering and Technology. I enjoy creating responsive websites,
-              Shopify stores, and real-world applications.
+              
+  I am a Computer Science Engineering student passionate about Web Development and Shopify Development.  
+  I enjoy creating responsive and user-friendly websites using HTML, CSS and JavaScript.  
+  I have worked on frontend and IoT based projects and participated in internships and hackathons.  
+  I am continuously improving my technical, problem-solving and development skills.  
+
             </p>
           </div>
         </div>
       </section>
+      <section id="education">
+
+  <h2>Education</h2>
+
+  <div class="cards">
+
+    <div>
+      🎓 B.Tech - CSE
+      <p class="details">
+        Pursuing Computer Science Engineering
+      </p>
+    </div>
+
+    <div>
+      📘 Intermediate
+      <p class="details">
+        Secured 92% in Intermediate
+      </p>
+    </div>
+
+    <div>
+      🏆 SSC
+      <p class="details">
+        Secured 100% in SSC Board Examination
+      </p>
+    </div>
+
+  </div>
+
+</section>
 
       <section id="skills" className="py-20 px-6 bg-white/5">
         <div className="max-w-6xl mx-auto">
@@ -195,23 +243,57 @@ export default function Home() {
           <h2 className="text-4xl font-bold text-center mb-10">
             Certifications
           </h2>
+<div className="space-y-4">
 
-          <div className="space-y-4">
-            {[
-              "AI-ML Virtual Internship – AICTE & EduSkills",
-              "AI Foundation Course – Jio Institute",
-              "Responsive Web Design – freeCodeCamp",
-              "Generative AI Model Course – NxtWave",
-              "Ignite India Program – Wadhwani Foundation",
-            ].map((cert) => (
-              <div
-                key={cert}
-                className="p-5 rounded-2xl bg-[#15162b] border border-white/10"
-              >
-                {cert}
-              </div>
-            ))}
-          </div>
+  {[
+    {
+      title: "AI-ML Virtual Internship",
+      company: "AICTE & EduSkills",
+      desc: "Learned basics of Artificial Intelligence and Machine Learning with practical exposure."
+    },
+
+    {
+      title: "Frontend Developer Internship",
+      company: "Cognetix Global Technology LLP",
+      desc: "Worked on responsive web pages using HTML, CSS and JavaScript."
+    },
+
+    {
+      title: "Ignite India Program",
+      company: "Wadhwani Foundation",
+      desc: "Improved communication, teamwork and professional development skills."
+    },
+
+    {
+      title: "Hackathons Participation",
+      company: "College & Technical Events",
+      desc: "Participated in hackathons and gained practical development experience."
+    }
+
+  ].map((item) => (
+
+    <div
+      key={item.title}
+      className="p-5 rounded-2xl bg-[#15162b] border border-white/10"
+    >
+
+      <h3 className="text-xl font-semibold text-pink-400">
+        {item.title}
+      </h3>
+
+      <p className="text-sm text-gray-400 mt-1">
+        {item.company}
+      </p>
+
+      <p className="text-gray-300 mt-3">
+        {item.desc}
+      </p>
+
+    </div>
+
+  ))}
+
+</div>
         </div>
       </section>
 
