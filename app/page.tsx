@@ -9,7 +9,7 @@ export default function Home() {
       title: "Urban Threads Shopify Store",
       desc: "A fully functional Shopify e-commerce store with product variants, collections, pricing and checkout setup.",
       tech: "Shopify, Liquid, HTML, CSS",
-      github live :
+      live :
         "https://github.com/NagullaSaiLahari3281/Urban-threads-shopify-store",
     },
     {
@@ -144,25 +144,25 @@ export default function Home() {
 
   <h2>Education</h2>
 
-  <div class="cards">
+  <div className="cards">
 
     <div>
       🎓 B.Tech - CSE
-      <p class="details">
+      <p className="details">
         Pursuing Computer Science Engineering
       </p>
     </div>
 
     <div>
       📘 Intermediate
-      <p class="details">
+      <p className="details">
         Secured 92% in Intermediate
       </p>
     </div>
 
     <div>
       🏆 SSC
-      <p class="details">
+      <p className="details">
         Secured 100% in SSC Board Examination
       </p>
     </div>
