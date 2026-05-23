@@ -55,8 +55,7 @@ export default function Home() {
 
       live:
         "https://nagullasailahari3281.github.io/food-delivery-app/",
-    },
-    
+    }, 
   ];
 
   const skills = [
