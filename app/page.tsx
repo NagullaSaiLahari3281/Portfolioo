@@ -58,12 +58,12 @@ export default function Home() {
     },
 
    {
-  title: "Movie Finder App",
+     title: "Movie Finder App",
 
-  desc:
-    "A movie search application with a responsive and user-friendly interface to explore movie details.",
+      desc:
+       "A movie search application with a responsive and user-friendly interface to explore movie details.",
 
-  tech: "HTML, CSS, JavaScript",
+      tech: "HTML, CSS, JavaScript",
       
     },
   ];
