@@ -57,12 +57,13 @@ export default function Home() {
         "https://nagullasailahari3281.github.io/food-delivery-app/",
     },
 
-    {title: "Movie Finder App",
+   {
+  title: "Movie Finder App",
 
-desc:
-  "A movie search application with a responsive and user-friendly interface to explore movie details.",
+  desc:
+    "A movie search application with a responsive and user-friendly interface to explore movie details.",
 
-tech: "HTML, CSS, JavaScript",
+  tech: "HTML, CSS, JavaScript",
       
     },
   ];
