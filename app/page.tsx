@@ -93,7 +93,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
 
           <h1 className="text-xl font-bold text-pink-400">
-            Nagulla
+            Sai Lahari
           </h1>
 
           <div className="hidden md:flex gap-6 text-sm">
@@ -237,7 +237,7 @@ export default function Home() {
               </h3>
 
               <p className="text-gray-400 mt-3">
-                QIS College of Engineering and Technology
+                QIS College of Engineering and Technology<br></br>
                 Pursuing Computer Science Engineering
               </p>
 
@@ -250,7 +250,7 @@ export default function Home() {
               </h3>
 
               <p className="text-gray-400 mt-3">
-                Narayana Junior College, Ongole
+                Narayana Junior College, Ongole<br></br>
                 Secured 92% in Intermediate
               </p>
 
@@ -263,7 +263,7 @@ export default function Home() {
               </h3>
 
               <p className="text-gray-400 mt-3">
-                Oxford EM High School, Ongole
+                Oxford EM High School, Ongole<br></br>
                 Secured 100% in SSC Board Examination
               </p>
 
