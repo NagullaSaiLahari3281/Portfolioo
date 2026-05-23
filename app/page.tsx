@@ -229,41 +229,42 @@ tech: "HTML, CSS, JavaScript",
 
             <div className="p-6 rounded-3xl bg-[#15162b] border border-white/10 text-center">
 
-              <h3 className="text-xl font-semibold text-pink-400">
-                🎓 B.Tech - CSE
-              </h3>
+  <h3 className="text-xl font-semibold text-pink-400">
+    🎓 B.Tech - CSE
+  </h3>
 
-              <p className="text-gray-400 mt-3">
-                QIS College of Engineering and Technology<br></br>
-                Pursuing Computer Science Engineering
-              </p>
+  <p className="text-gray-400 mt-3">
+    QIS College of Engineering and Technology<br></br>
+    Pursuing Computer Science Engineering | 2023 - 2027
+  </p>
 
-            </div>
+</div>
 
-            <div className="p-6 rounded-3xl bg-[#15162b] border border-white/10 text-center">
+<div className="p-6 rounded-3xl bg-[#15162b] border border-white/10 text-center">
 
-              <h3 className="text-xl font-semibold text-pink-400">
-                📘 Intermediate
-              </h3>
+  <h3 className="text-xl font-semibold text-pink-400">
+    📘 Intermediate
+  </h3>
 
-              <p className="text-gray-400 mt-3">
-                Narayana Junior College, Ongole<br></br>
-                Secured 92% in Intermediate
-              </p>
+  <p className="text-gray-400 mt-3">
+    Narayana Junior College, Ongole<br></br>
+    Secured 92% in Intermediate | 2021 - 2023
+  </p>
 
-            </div>
+</div>
 
-            <div className="p-6 rounded-3xl bg-[#15162b] border border-white/10 text-center">
+<div className="p-6 rounded-3xl bg-[#15162b] border border-white/10 text-center">
 
-              <h3 className="text-xl font-semibold text-pink-400">
-                🏆 SSC
-              </h3>
+  <h3 className="text-xl font-semibold text-pink-400">
+    🏆 SSC
+  </h3>
 
-              <p className="text-gray-400 mt-3">
-                Oxford EM High School, Ongole<br></br>
-                Secured 100% in SSC Board Examination
-              </p>
+  <p className="text-gray-400 mt-3">
+    Oxford EM High School, Ongole<br></br>
+    Secured 100% in SSC Board Examination | 2020 - 2021
+  </p>
 
+</div>
             </div>
 
           </div>
