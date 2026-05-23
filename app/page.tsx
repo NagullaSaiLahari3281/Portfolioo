@@ -93,7 +93,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
 
           <h1 className="text-xl font-bold text-pink-400">
-            Sai Lahari
+            Nagulla
           </h1>
 
           <div className="hidden md:flex gap-6 text-sm">
@@ -124,9 +124,9 @@ export default function Home() {
 
             <h1 className="text-5xl md:text-6xl font-bold leading-tight">
 
-              Nagulla
+              Sai Lahari
               <span className="text-purple-400">
-                {" "}Sai Lahari
+                {" "}Nagulla
               </span>
 
             </h1>
@@ -202,18 +202,13 @@ export default function Home() {
           <div className="bg-white/5 rounded-3xl p-8 border border-white/10">
 
             <p className="text-gray-300 leading-8 text-center">
+             I am a passionate Computer Science Engineering student with strong interest in Web Development and Shopify Development. 
+              Skilled in HTML, CSS, JavaScript and Python, I enjoy building responsive and user-friendly web applications. 
+              I have worked on frontend and IoT-based projects and participated in internships, hackathons and technical events.
+              I am continuously improving my technical, problem-solving and teamwork skills while exploring modern web technologies and software development.
 
-              I am a Computer Science Engineering student passionate
-              about Web Development and Shopify Development.
-              I enjoy creating responsive and user-friendly websites
-              using HTML, CSS and JavaScript.
 
-              <br /><br />
-
-              I have worked on frontend and IoT based projects
-              and participated in internships and hackathons.
-              I am continuously improving my technical and
-              problem-solving skills.
+        
 
             </p>
 
@@ -242,6 +237,7 @@ export default function Home() {
               </h3>
 
               <p className="text-gray-400 mt-3">
+                QIS College of Engineering and Technology
                 Pursuing Computer Science Engineering
               </p>
 
@@ -254,6 +250,7 @@ export default function Home() {
               </h3>
 
               <p className="text-gray-400 mt-3">
+                Narayana Junior College, Ongole
                 Secured 92% in Intermediate
               </p>
 
@@ -266,6 +263,7 @@ export default function Home() {
               </h3>
 
               <p className="text-gray-400 mt-3">
+                Oxford EM High School, Ongole
                 Secured 100% in SSC Board Examination
               </p>
 
