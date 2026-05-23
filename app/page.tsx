@@ -129,7 +129,7 @@ tech: "HTML, CSS, JavaScript",
             </h1>
 
             <h2 className="text-2xl mt-4 text-gray-300">
-              Frontend Developer | Shopify Developer
+              Frontend Developer | Full Stack Learner
             </h2>
 
             <p className="mt-5 text-gray-400 max-w-xl">
