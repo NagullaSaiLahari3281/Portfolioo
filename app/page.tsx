@@ -235,7 +235,7 @@ tech: "HTML, CSS, JavaScript",
 
   <p className="text-gray-400 mt-3">
     QIS College of Engineering and Technology<br></br>
-    Pursuing Computer Science Engineering | 2023 - 2027
+    CGPA: 8.31 | 2023 - 2027
   </p>
 
 </div>
