@@ -57,16 +57,13 @@ export default function Home() {
         "https://nagullasailahari3281.github.io/food-delivery-app/",
     },
 
-    {
-      title: "Netflix Homepage Clone",
+    {title: "Movie Finder App",
 
-      desc:
-        "A Netflix landing page clone with responsive design and modern UI.",
+desc:
+  "A movie search application with a responsive and user-friendly interface to explore movie details.",
 
-      tech: "HTML, CSS, JavaScript",
-
-      live:
-        "https://nagullasailahari3281.github.io/netflix-homepage-clone/",
+tech: "HTML, CSS, JavaScript",
+      
     },
   ];
 
