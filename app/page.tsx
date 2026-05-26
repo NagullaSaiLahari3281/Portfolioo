@@ -142,7 +142,7 @@ export default function Home() {
               </a>
 
               <a
-                href="/sailaharinagulla_resume.pdf"
+                href="/NagullaLahariresume.pdf"
                 target="_blank"
                 className="px-6 py-3 rounded-full border border-white/20 flex items-center gap-2"
               >
