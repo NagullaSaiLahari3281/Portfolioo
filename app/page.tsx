@@ -372,11 +372,13 @@ export default function Home() {
                   "Worked on responsive web pages using HTML, CSS and JavaScript."
               },
 
-              {
-                title: "Ignite India Program",
-                company: "Wadhwani Foundation",
-                desc:
-                  "Improved communication and professional skills."
+              
+                {
+                   title: "Data Analytics with Python",
+                  company: "NPTEL - IIT Roorkee (Elite)",
+                  desc:
+                   "Completed NPTEL certification in Data Analytics with Python and strengthened skills in Python, data analysis, and analytical thinking."
+
               },
 
               {
