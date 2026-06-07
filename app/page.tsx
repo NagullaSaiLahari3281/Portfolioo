@@ -154,24 +154,7 @@ export default function Home() {
 
           </motion.div>
 
-          <motion.div
-            initial={{ opacity: 0, scale: 0.8 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 0.8 }}
-            className="flex justify-center"
-          >
-
-            <div className="w-72 h-72 rounded-full bg-gradient-to-r from-pink-500 to-purple-600 p-1 shadow-2xl">
-
-              <div className="w-full h-full rounded-full bg-[#15162b] flex items-center justify-center text-6xl font-bold text-pink-300">
-
-                SL
-
-              </div>
-
-            </div>
-
-          </motion.div>
+         
 
         </div>
 
