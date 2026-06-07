@@ -375,7 +375,7 @@ export default function Home() {
               
                 {
                    title: "Data Analytics with Python",
-                  company: "NPTEL - IIT Roorkee (Elite)",
+                  company: "NPTEL - IIT Roorkee",
                   desc:
                    "Completed NPTEL certification in Data Analytics with Python and strengthened skills in Python, data analysis, and analytical thinking."
 
