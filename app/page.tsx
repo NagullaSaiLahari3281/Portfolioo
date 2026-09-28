@@ -119,7 +119,7 @@ export default function Home() {
             </h1>
 
             <h2 className="text-2xl mt-4 text-gray-300">
-              Frontend Developer | Full Stack Learner
+              Frontend Developer | Aspiring Full-Stack Developer
             </h2>
 
             <p className="mt-5 text-gray-400 max-w-xl">
@@ -208,7 +208,7 @@ export default function Home() {
 
   <p className="text-gray-400 mt-3">
     QIS College of Engineering and Technology<br></br>
-    CGPA: 8.31 | 2023 - 2027
+    CGPA: 8.49 | 2023 - 2027
   </p>
 
 </div>
