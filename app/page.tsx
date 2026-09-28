@@ -15,7 +15,7 @@ export default function Home() {
   tech: "React, JavaScript, CSS, Supabase",
 
   live:
-    "https://bgrand.vercel.app/",
+   "https://bgrand.vercel.app" ,
 },
     {
       title: "Urban Threads Shopify Store",
