@@ -70,18 +70,19 @@ export default function Home() {
    
 ];
 
-  const skills = [
-    "💻 HTML",
-    "🎨 CSS",
-    "⚡ JavaScript",
-    "🅱️ Bootstrap",
-    "🛍 Shopify",
-    "🟢 Node.js Basics",
-    "🌐 GitHub",
-    "🐍 Python",
-    "🧠 IoT",
-    "🗄 MySQL",
-  ];
+ const skills = [
+  "💻 HTML",
+  "🎨 CSS",
+  "⚡ JavaScript",
+  "⚛️ React",
+  "🅱️ Bootstrap",
+  "🛍 Shopify",
+  "🟢 Node.js Basics",
+  "🌐 GitHub",
+  "🐍 Python",
+  "🧠 IoT",
+  "🗄 MySQL",
+];
 
   return (
     <main className="min-h-screen bg-[#0f1020] text-white">
