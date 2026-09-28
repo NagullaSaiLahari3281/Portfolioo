@@ -43,6 +43,17 @@ export default function Home() {
       live:
         "https://nagullasailahari3281.github.io/Gas-Leakage/",
     },
+     {
+      title: "Food Delivery App",
+
+      desc:
+        "A food delivery website with menu browsing and responsive user interface.",
+
+      tech: "HTML, CSS, JavaScript",
+
+      live:
+        "https://nagullasailahari3281.github.io/food-delivery-app/",
+    }, 
 
     {
       title: "Hotel Booking App",
@@ -56,17 +67,7 @@ export default function Home() {
         "https://nagullasailahari3281.github.io/Hotel-Booking-App/",
     },
 
-    {
-      title: "Food Delivery App",
-
-      desc:
-        "A food delivery website with menu browsing and responsive user interface.",
-
-      tech: "HTML, CSS, JavaScript",
-
-      live:
-        "https://nagullasailahari3281.github.io/food-delivery-app/",
-    }, 
+   
 ];
 
   const skills = [
