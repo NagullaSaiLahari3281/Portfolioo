@@ -7,6 +7,17 @@ export default function Home() {
 
   const projects = [
     {
+  title: "BGRAND Homestay Booking Website",
+
+  desc:
+    "A responsive full-stack homestay booking website with dynamic room listings, online booking, gallery, and an admin dashboard for managing rooms, bookings, guests, and property details.",
+
+  tech: "React, JavaScript, CSS, Supabase",
+
+  live:
+    "https://bgrand.vercel.app/",
+},
+    {
       title: "Urban Threads Shopify Store",
 
       desc:
