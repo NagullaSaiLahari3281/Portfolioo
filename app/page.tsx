@@ -364,6 +364,12 @@ export default function Home() {
                 desc:
                   "Learned basics of Artificial Intelligence and Machine Learning."
               },
+               {
+    title: "Website Design & Development Intern",
+    company: "Internship Studio (iStudio)",
+    desc:
+      "Completed a 6-month internship focused on website design and development, gaining practical experience in HTML, CSS, JavaScript, Bootstrap, responsive web design, and web-based projects."
+},
 
               {
                 title: "Frontend Developer Internship",
