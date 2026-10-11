@@ -74,12 +74,12 @@ export default function Home() {
   "💻 HTML",
   "🎨 CSS",
   "⚡ JavaScript",
+   "🐍 Python",
   "⚛️ React",
   "🅱️ Bootstrap",
   "🛍 Shopify",
   "🟢 Node.js Basics",
   "🌐 GitHub",
-  "🐍 Python",
   "🧠 IoT",
   "🗄 MySQL",
 ];
