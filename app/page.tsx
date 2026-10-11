@@ -93,7 +93,7 @@ export default function Home() {
 
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
 
-          <h1 className="text-xl font-bold text-pink-400">
+          <h1 className="text-xl font-bold text-cyan-400">
             Sai Lahari
           </h1>
 
@@ -118,7 +118,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
           >
 
-            <p className="text-pink-400 mb-3">
+            <p className="text-cyan-400 mb-3">
               Hello, I'm
             </p>
 
@@ -148,7 +148,7 @@ export default function Home() {
 
               <a
                 href="#projects"
-                className="px-6 py-3 rounded-full bg-gradient-to-r from-pink-500 to-purple-600 font-semibold"
+                className="px-6 py-3 rounded-full bg-gradient-to-r from-purple-500 to-cyan-400 font-semibold"
               >
                 View Projects
               </a>
@@ -215,7 +215,7 @@ export default function Home() {
 
             <div className="p-6 rounded-3xl bg-[#15162b] border border-white/10 text-center">
 
-  <h3 className="text-xl font-semibold text-pink-400">
+  <h3 className="text-xl font-semibold text-cyan-400">
     🎓 B.Tech - CSE
   </h3>
 
@@ -228,7 +228,7 @@ export default function Home() {
 
 <div className="p-6 rounded-3xl bg-[#15162b] border border-white/10 text-center">
 
-  <h3 className="text-xl font-semibold text-pink-400">
+  <h3 className="text-xl font-semibold text-cyan-400">
     📘 Intermediate
   </h3>
 
@@ -241,7 +241,7 @@ export default function Home() {
 
 <div className="p-6 rounded-3xl bg-[#15162b] border border-white/10 text-center">
 
-  <h3 className="text-xl font-semibold text-pink-400">
+  <h3 className="text-xl font-semibold text-cyan-400">
     🏆 SSC
   </h3>
 
@@ -311,7 +311,7 @@ export default function Home() {
                 className="rounded-3xl p-6 bg-[#15162b] border border-white/10"
               >
 
-                <h3 className="text-xl font-bold text-pink-400">
+                <h3 className="text-xl font-bold text-cyan-400">
                   {project.title}
                 </h3>
 
@@ -414,7 +414,7 @@ export default function Home() {
                 className="p-5 rounded-2xl bg-[#15162b] border border-white/10"
               >
 
-                <h3 className="text-xl font-semibold text-pink-400">
+                <h3 className="text-xl font-semibold text-cyan-400">
                   {item.title}
                 </h3>
 
