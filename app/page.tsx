@@ -136,11 +136,8 @@ export default function Home() {
             </h2>
 
             <p className="mt-5 text-gray-400 max-w-xl">
-
-              B.Tech Computer Science student skilled in HTML, CSS,
-              JavaScript and Shopify e-commerce development.
-              Passionate about building modern and responsive
-              web applications.
+B.Tech Computer Science student skilled in web development, programming, and databases. 
+              Passionate about building modern, responsive, and user-friendly web applications.
 
             </p>
 
@@ -185,11 +182,9 @@ export default function Home() {
           <div className="bg-white/5 rounded-3xl p-8 border border-white/10">
 
             <p className="text-gray-300 leading-8 text-center">
-             I am a passionate Computer Science Engineering student with strong interest in Web Development and Shopify Development. 
-              Skilled in HTML, CSS, JavaScript and Python, I enjoy building responsive and user-friendly web applications. 
-              I have worked on frontend and IoT-based projects and participated in internships, hackathons and technical events.
-              I am continuously improving my technical, problem-solving and teamwork skills while exploring modern web technologies and software development.
-
+            I am a Computer Science and Engineering student passionate about web development.
+              I have knowledge of HTML, CSS, JavaScript, React, and databases, with hands-on experience in building responsive websites and web applications. 
+              I enjoy solving problems, learning new technologies, and creating user-friendly web experiences.
 
         
 
